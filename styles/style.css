@@ -1,0 +1,29 @@
+body {
+    font-family: 'Raleway', sans-serif;
+
+
+    display: flex;
+    height: 100vh;
+}
+
+.header .navbar {
+    background-color: transparent !important;
+}
+
+.navbar-brand {
+    padding-top: 0;
+    padding-left: 30px;
+}
+
+.navbar-nav {
+    margin-left: 60px;
+}
+
+.nav-item {
+    padding-left: 50px;
+}
+
+.nav-link {
+    font-weight: 300;
+    font-size: 20px;
+}
