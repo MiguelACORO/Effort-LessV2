@@ -1,2 +1,2 @@
 # Effort-LessV2
-Segundo intento de Effort-Less
+Second version of Effort-Less developed in laravel
